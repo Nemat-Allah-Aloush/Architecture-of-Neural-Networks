@@ -13,5 +13,5 @@ The lab file includes :
 * PyTorch introductory assignments
 * Feedforward Neural Network construction assignment and Training FNN
  
-## [CNN Basics](https://github.com/Nemat-Allah-Aloush/Architecture-of-Neural-Networks/blob/main/HW1_cnn_basics.ipynb)
+## [CNN Basics](https://github.com/Nemat-Allah-Aloush/Architecture-of-Neural-Networks/blob/main/Homeworks/HW1_cnn_basics.ipynb)
 This task is devoted to creating convolutional neural network from scratch, using only pure Python and NumPy package. 
