@@ -24,4 +24,5 @@ The task is devoted to implement Image segmentation with U-Net. The task uses th
 ## [Deep Convolutional Generative Adversarial Network architecture](https://github.com/Nemat-Allah-Aloush/Architecture-of-Neural-Networks/blob/main/Homeworks/HW3_DCGAN.ipynb)
 The task is devoted to implement the Deep Convolutional Generative Adversarial Network architecture (DCGAN). This task is based on the paper Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. This paper by Alec Radford, Luke Metz, and Soumith Chintala was released in 2016 and has become the baseline for many Convolutional GAN architectures in deep learning. The goal is to learn about the DCGAN architecture from the paper and to implement the model using PyTorch deep learning framework.
 Through the task, we were asked to work with the CIFAR10 dataset and try to train models for generating similar images.
+
 The generated images can be shown in the [folder](https://github.com/Nemat-Allah-Aloush/Architecture-of-Neural-Networks/tree/main/files/Homework_3_DCGAN).
