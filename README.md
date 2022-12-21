@@ -8,6 +8,8 @@ Tasks for Architecture of Neural Networks Course at ITMO University
 2. [CNN Basics](#cnn-basics)
 3. [Image segmentation with U-Net](#image-segmentation-with-u-net)
 4. [Deep Convolutional Generative Adversarial Network architecture](#deep-convolutional-generative-adversarial-network-architecture)
+5. [Reinforcement Learning](#reinforcement-learning)
+6. [Automatic Music Generation](#automatic-music-generation)
 ---
 
 ## [Introduction to Pytorch and NN](https://github.com/Nemat-Allah-Aloush/Architecture-of-Neural-Networks/blob/main/Labs/ArchNN_2022_autumn_practice1_answers.ipynb)
@@ -26,3 +28,9 @@ The task is devoted to implement the Deep Convolutional Generative Adversarial N
 Through the task, we were asked to work with the CIFAR10 dataset and try to train models for generating similar images.
 
 The generated images can be shown in the [folder](https://github.com/Nemat-Allah-Aloush/Architecture-of-Neural-Networks/tree/main/files/Homework_3_DCGAN).
+
+## [Reinforcement Learning](https://github.com/Nemat-Allah-Aloush/Architecture-of-Neural-Networks/blob/main/Homeworks/HW4_RL.ipynb)
+The goal of the task is to train the agent to win in Walker2D game with Actor-Critic, Advantage Actor Critic (A2C), Trust-region Policy Optimization (TRPO) or Proximal Policy Optimization (PPO). 
+
+## [Automatic Music Generation](https://github.com/Nemat-Allah-Aloush/Architecture-of-Neural-Networks/blob/main/Homeworks/HW_5_MG.ipynb)
+The goal of the task is to design the architecture of two models for generating piano melodies with the specified parameters: LSTM and WaveNet, and perform experiments with different input note sequence lengths and draw conclusions about which value of this hyperparameter gives the best result for each of the models.
